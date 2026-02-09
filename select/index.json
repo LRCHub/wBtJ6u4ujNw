@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "共感覚おばけ",
+  "base_artist": "sasanomaly",
+  "createdAt": "2026-02-09T06:39:19.958276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "共感覚おばけ(Exit From a Loop of Regret)",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/01_共感覚おばけ(Exit_From_a_Loop_of_Regret)_ササノマリイ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "共感覚おばけ - Kyoukankaku Obake",
+      "artist": "sasanomaly",
+      "has_synced": true,
+      "path": "select/02_共感覚おばけ_-_Kyoukankaku_Obake_sasanomaly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "共感覚おばけ",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_01_共感覚おばけ_ササノマリイ.txt"
+    }
+  ]
+}
